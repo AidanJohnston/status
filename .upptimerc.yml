@@ -23,13 +23,13 @@ status-website:
   # baseUrl: /your-repo-name
   name: Uptime Monitor
   introTitle: "Aidan's simple server status monitor."
-  introMessage: This is a sample status page which uses **real-time** data. 
+  
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: light
+  theme: dark 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
