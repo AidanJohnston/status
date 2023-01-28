@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.aidanjohnston.ca.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "6.82%",
-    "uptimeDay": "6.82%",
-    "uptimeWeek": "6.82%",
-    "uptimeMonth": "6.82%",
-    "uptimeYear": "6.82%",
+    "uptime": "2.77%",
+    "uptimeDay": "2.77%",
+    "uptimeWeek": "2.77%",
+    "uptimeMonth": "2.77%",
+    "uptimeYear": "2.77%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 7
+      "2023-01-28": 18
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.aidanjohnston.ca.ico",
     "slug": "request-server",
     "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 7
+      "2023-01-28": 18
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.aidanjohnston.ca.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "43.33%",
-    "uptimeDay": "43.33%",
-    "uptimeWeek": "43.33%",
-    "uptimeMonth": "43.33%",
-    "uptimeYear": "43.33%",
+    "uptime": "4.16%",
+    "uptimeDay": "4.16%",
+    "uptimeWeek": "4.16%",
+    "uptimeMonth": "4.16%",
+    "uptimeYear": "4.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 1
+      "2023-01-28": 12
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/csgo.aidanjohnston.ca.ico",
     "slug": "csgo-server",
     "status": "down",
-    "uptime": "79.39%",
-    "uptimeDay": "79.39%",
-    "uptimeWeek": "79.39%",
-    "uptimeMonth": "79.39%",
-    "uptimeYear": "79.39%",
+    "uptime": "4.38%",
+    "uptimeDay": "4.38%",
+    "uptimeWeek": "4.38%",
+    "uptimeMonth": "4.38%",
+    "uptimeYear": "4.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-28": 11
     }
   },
   {
