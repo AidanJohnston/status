@@ -9,9 +9,13 @@ sites:
     url: https://media.aidanjohnston.ca
   - name: Request Server
     url: https://request.aidanjohnston.ca
-  - name: Minecraft
+  - name: Minecraft Server
     url: https://minecraft.aidanjohnston.ca
-
+  - name: CSGO Server
+    url: https://csgo.aidanjohnston.ca
+  - name: Fantaski
+    url: https://fantaski.aidanjohnston.ca
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
