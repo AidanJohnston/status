@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 223,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 176,
+    "timeDay": 196,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.aidanjohnston.ca.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "90.42%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "90.42%",
-    "time": 501,
-    "timeDay": 501,
-    "timeWeek": 501,
-    "timeMonth": 501,
-    "timeYear": 501,
+    "uptime": "92.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.71%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "92.71%",
+    "time": 447,
+    "timeDay": 417,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2023-01-29": 12,
       "2023-01-28": 138
     }
   },
@@ -55,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 1050,
+      "2023-01-29": 1381,
       "2023-01-28": 511
     }
   },
@@ -76,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 1050,
+      "2023-01-29": 1381,
       "2023-01-28": 505
     }
   },
@@ -97,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 1050,
+      "2023-01-29": 1381,
       "2023-01-28": 504
     }
   },
@@ -112,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 109,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 131,
+    "timeDay": 100,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   }
 ]
