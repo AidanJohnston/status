@@ -8,7 +8,7 @@ sites:
   - name: Media Server
     url: https://media.aidanjohnston.ca
   - name: Request Server
-    url: https://request.aidanjohnston.ca
+    url: https://request.aidanjohnston.ca/login
   - name: Minecraft Server
     url: https://minecraft.aidanjohnston.ca
   - name: CSGO Server
