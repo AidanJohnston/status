@@ -10,7 +10,8 @@ sites:
   - name: Request Server
     url: https://request.aidanjohnston.ca/login
   - name: Minecraft Server
-    url: https://minecraft.aidanjohnston.ca
+    url: minecraft.aidanjohnston.ca
+    port: 25565
   - name: CSGO Server
     url: https://csgo.aidanjohnston.ca
   - name: Fantaski
