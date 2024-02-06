@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 111,
-    "timeWeek": 98,
-    "timeMonth": 128,
+    "timeDay": 181,
+    "timeWeek": 109,
+    "timeMonth": 131,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2023-06-16": 25
@@ -29,14 +29,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.92%",
+    "uptimeYear": "1.65%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 471,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-02-05": 70,
+      "2024-02-06": 68,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -409,14 +410,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.92%",
+    "uptimeYear": "1.65%",
     "time": 595,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 610,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-02-05": 70,
+      "2024-02-06": 68,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -785,15 +787,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "11.84%",
+    "uptime": "12.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.08%",
+    "uptimeYear": "12.35%",
     "time": 32,
-    "timeDay": 19,
-    "timeWeek": 17,
-    "timeMonth": 29,
+    "timeDay": 62,
+    "timeWeek": 24,
+    "timeMonth": 31,
     "timeYear": 32,
     "dailyMinutesDown": {
       "2023-12-22": 1372,
@@ -1114,8 +1116,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   },
   {
@@ -1135,7 +1136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 70,
+      "2024-02-06": 68,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -1498,8 +1500,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   },
   {
@@ -1513,11 +1514,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 62,
-    "timeWeek": 72,
-    "timeMonth": 209,
-    "timeYear": 104,
+    "time": 104,
+    "timeDay": 95,
+    "timeWeek": 79,
+    "timeMonth": 211,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2023-06-16": 25
     }
