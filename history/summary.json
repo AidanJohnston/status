@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 208,
-    "timeWeek": 149,
-    "timeMonth": 139,
+    "timeDay": 90,
+    "timeWeek": 147,
+    "timeMonth": 140,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2023-06-16": 25
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.aidanjohnston.ca.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "2.88%",
+    "uptime": "2.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.10%",
+    "uptimeYear": "0.83%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 440,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2024-02-08": 67,
+      "2024-02-09": 67,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -398,8 +399,7 @@
       "2023-02-14": 1440,
       "2023-02-13": 1440,
       "2023-02-12": 1251,
-      "2023-02-10": 79,
-      "2023-02-09": 24
+      "2023-02-10": 79
     }
   },
   {
@@ -408,18 +408,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.aidanjohnston.ca.ico",
     "slug": "request-server",
     "status": "down",
-    "uptime": "2.10%",
+    "uptime": "2.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.10%",
+    "uptimeYear": "0.83%",
     "time": 595,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 596,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-02-08": 67,
+      "2024-02-09": 67,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -781,8 +782,7 @@
       "2023-02-14": 1440,
       "2023-02-13": 1440,
       "2023-02-12": 1251,
-      "2023-02-10": 79,
-      "2023-02-09": 24
+      "2023-02-10": 79
     }
   },
   {
@@ -791,16 +791,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "12.55%",
+    "uptime": "12.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.90%",
-    "time": 34,
-    "timeDay": 63,
+    "uptimeYear": "13.18%",
+    "time": 33,
+    "timeDay": 14,
     "timeWeek": 38,
-    "timeMonth": 34,
-    "timeYear": 34,
+    "timeMonth": 33,
+    "timeYear": 33,
     "dailyMinutesDown": {
       "2023-12-22": 1372,
       "2023-12-21": 1440,
@@ -1117,8 +1117,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -1138,7 +1137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-08": 67,
+      "2024-02-09": 67,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -1501,8 +1501,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -1517,10 +1516,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 79,
-    "timeWeek": 87,
-    "timeMonth": 213,
-    "timeYear": 105,
+    "timeDay": 49,
+    "timeWeek": 82,
+    "timeMonth": 212,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2023-06-16": 25
     }
