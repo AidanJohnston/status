@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aidanjohnston.ca.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "93.92%",
+    "uptime": "93.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.55%",
-    "time": 163,
+    "uptimeYear": "86.28%",
+    "time": 162,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 170,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-04-15": 109,
+      "2025-04-16": 109,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -86,7 +87,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 109,
+      "2025-04-16": 109,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -449,8 +451,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -459,7 +460,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.aidanjohnston.ca.ico",
     "slug": "request-server",
     "status": "down",
-    "uptime": "0.98%",
+    "uptime": "0.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -470,7 +471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 109,
+      "2025-04-16": 109,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -833,8 +835,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -843,13 +844,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "59.20%",
+    "uptime": "59.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 32,
-    "timeDay": 19,
+    "timeDay": 14,
     "timeWeek": 31,
     "timeMonth": 33,
     "timeYear": 31,
@@ -879,7 +880,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 109,
+      "2025-04-16": 109,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -1242,8 +1244,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -1258,10 +1259,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 116,
-    "timeWeek": 124,
-    "timeMonth": 118,
-    "timeYear": 104,
+    "timeDay": 103,
+    "timeWeek": 123,
+    "timeMonth": 119,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   }
 ]
