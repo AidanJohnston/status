@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aidanjohnston.ca.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "75.42%",
+    "uptime": "75.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "32.31%",
-    "time": 179,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "32.03%",
+    "time": 180,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-10-30": 114,
+      "2025-10-31": 110,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -273,10 +274,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.aidanjohnston.ca.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "1.08%",
+    "uptime": "1.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -284,7 +285,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 114,
+      "2025-10-31": 110,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -647,8 +649,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -660,7 +661,7 @@
     "uptime": "0.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -668,7 +669,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 114,
+      "2025-10-31": 110,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -1031,8 +1033,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -1041,16 +1042,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "67.24%",
+    "uptime": "67.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 31,
-    "timeDay": 18,
-    "timeWeek": 27,
+    "timeDay": 23,
+    "timeWeek": 21,
     "timeMonth": 30,
-    "timeYear": 30,
+    "timeYear": 31,
     "dailyMinutesDown": {
       "2025-03-03": 89,
       "2025-02-03": 17
@@ -1065,7 +1066,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1073,7 +1074,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 114,
+      "2025-10-31": 110,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -1436,8 +1438,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -1452,9 +1453,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 133,
-    "timeWeek": 97,
-    "timeMonth": 104,
+    "timeDay": 72,
+    "timeWeek": 91,
+    "timeMonth": 103,
     "timeYear": 110,
     "dailyMinutesDown": {}
   }
