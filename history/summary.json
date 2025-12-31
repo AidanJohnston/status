@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aidanjohnston.ca.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "71.11%",
+    "uptime": "71.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "15.59%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "15.32%",
     "time": 183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 180,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-12-30": 121,
+      "2025-12-31": 121,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -337,7 +338,7 @@
     "uptime": "1.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -345,7 +346,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 121,
+      "2025-12-31": 121,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -708,8 +710,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   },
   {
@@ -721,7 +722,7 @@
     "uptime": "0.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -729,7 +730,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 121,
+      "2025-12-31": 121,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -1092,8 +1094,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   },
   {
@@ -1102,14 +1103,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "69.04%",
+    "uptime": "69.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.77%",
     "time": 31,
-    "timeDay": 26,
-    "timeWeek": 28,
+    "timeDay": 23,
+    "timeWeek": 29,
     "timeMonth": 35,
     "timeYear": 31,
     "dailyMinutesDown": {
@@ -1127,7 +1128,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1135,7 +1136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 121,
+      "2025-12-31": 121,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -1498,8 +1500,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   },
   {
@@ -1514,9 +1515,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 130,
-    "timeWeek": 109,
-    "timeMonth": 110,
+    "timeDay": 135,
+    "timeWeek": 117,
+    "timeMonth": 111,
     "timeYear": 108,
     "dailyMinutesDown": {}
   }
